@@ -64,4 +64,5 @@ d
 
 Please contact me about this project here [s](mailto:s)
             
-My git hub account is s at https://github.com/s
+
+My git hub account is jbird11801 at https://github.com/jbird11801
