@@ -26,7 +26,7 @@ type node index.html while in the right file location, and follow the prompts to
 
 ![gif that shows how to use the file](<assets/images/Untitled_ Aug 30, 2023 5_51 AM.gif>)
 
-link to video https://youtu.be/hyMWqyk6_qU
+link to video https://youtu.be/IjR4ZaC6tIU
 
 ## Credits
 

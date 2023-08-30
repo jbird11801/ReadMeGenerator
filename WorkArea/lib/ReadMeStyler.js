@@ -199,7 +199,7 @@ My git hub account is ${data[11]} at https://github.com/${data[11]}`;
 
 return `# ${this.ReadMeTitle(data)}
 
-Protected by a ![Static Badge](https://img.shields.io/badge/${data[5]}-b06402)(#license)
+Protected by a ![Static Badge](https://img.shields.io/badge/${data[5]}-b06402)[License](#license)
 
 ## Description
 
