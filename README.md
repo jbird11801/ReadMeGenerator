@@ -1,4 +1,6 @@
-# ReadMe Generator
+# ReadMe Generator 
+
+## [Static Badge](https://img.shields.io/badge/MIT-b06402)[License](#license)
 
 ## Description
 
@@ -18,7 +20,19 @@ In this project aimed to create a file generator for a README.md file. If I cont
 
 ## Installation
 
-ltr
+first use 'npm init' in the console terminal
+
+second run 'npm i inquirer' in the console terminal
+
+third make sure you have index.js file on the same level and the package.json,package-lock.json, and ReadMeStyler.js in a lib file 
+
+then you should be all set to run the code 
+
++++++++++++++++++
+
+Or just install everything in the workarea file as is
+
+make sure
 
 ## Usage
 
