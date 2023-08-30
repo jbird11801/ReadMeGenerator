@@ -1,10 +1,10 @@
-# Read me generator
+# Demo
 
-Protected by a ![Static Badge](https://img.shields.io/badge/MIT-b06402)(#license)
+Protected by a ![Static Badge](https://img.shields.io/badge/MIT-b06402)[License](#license)
 
 ## Description
 
-This is a good description for a demo
+Great demo
 
 ## Table of Contents
 
@@ -20,11 +20,11 @@ This is a good description for a demo
 
 ## Installation
 
-by downloading the project
+alot
 
 ## Usage
 
-by following this guide
+carefuly
 
 ## Credits
 
@@ -50,18 +50,18 @@ none
 
 ## Features
 
-alot
+a few
 
 ## Contribute
 
-by contacting me
+no
 
 ## Tests
 
-by doing this
+d
 
 ## Questions
 
-Please contact me about this project here [hi@yes.com](mailto:hi@yes.com)
+Please contact me about this project here [s](mailto:s)
             
-My git hub account is jbird11801 at https://github.com/jbird11801
+My git hub account is s at https://github.com/s
