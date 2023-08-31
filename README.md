@@ -1,6 +1,6 @@
 # ReadMe Generator 
 
-## [Static Badge](https://img.shields.io/badge/MIT-b06402) [License](#license)
+## ![Static Badge](https://img.shields.io/badge/MIT-b06402) [License](#license)
 
 ## Description
 
