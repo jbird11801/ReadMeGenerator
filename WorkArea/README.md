@@ -1,6 +1,6 @@
 # Demo
 
-Protected by a ![Static Badge](https://img.shields.io/badge/MIT-b06402)[License](#license)
+Protected by a ![Static Badge](https://img.shields.io/badge/MIT-b06402) [License](#license)
 
 ## Description
 
